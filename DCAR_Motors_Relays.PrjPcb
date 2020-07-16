@@ -124,23 +124,6 @@ GenerateClassCluster=0
 DocumentUniqueId=SWXLLAJO
 
 [Document6]
-DocumentPath=DCAR_LCD.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document7]
 DocumentPath=DCAR_MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -155,9 +138,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IEFNLSBU
 
-[Document8]
+[Document7]
 DocumentPath=DCAR_Motors_Relays.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EYCXPAUO
 
-[Document9]
+[Document8]
 DocumentPath=DCAR_Notes.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -189,9 +172,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OHGVBHRN
 
-[Document10]
+[Document9]
 DocumentPath=DCAR_Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
